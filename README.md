@@ -1,3 +1,4 @@
+![logo](https://github.com/DevStudiLabs/DevStudiLabs/blob/main/Corporate%20Event%20Banner%20in%20Black%20and%20White%20Blue%20Light%20Blue%20Bold%20Gradient%20Style.png)
 ‎<h1 align="center">Hi 👋, I'm DevStudiLabs</h1>
 ‎<h3 align="center">A passionate software developer from India</h3>
 ‎
@@ -11,7 +12,7 @@
 ‎<p align="left">
 ‎<a href="https://fb.com/devstudiolabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devstudiolabs" height="30" width="40" /></a>
 ‎<a href="https://instagram.com/devstudiolabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devstudiolabs" height="30" width="40" /></a>
-‎<a href="https://www.youtube.com/c/devstudiolabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devstudiolabs" height="30" width="40" /></a>
+‎<a href="https://www.youtube.com/c/@DevStudioLabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devstudiolabs" height="30" width="40" /></a>
 ‎</p>
 ‎
 ‎<h3 align="left">Languages and Tools:</h3>
